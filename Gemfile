@@ -67,7 +67,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'tzinfo-data', platforms: [:mingw,
+gem 'tzinfo-data', platforms: [:mingw,]
 
-gem 'pry-rails'
 gem 'devise'
+gem 'pry-rails'
